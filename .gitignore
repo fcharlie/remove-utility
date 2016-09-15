@@ -1,0 +1,22 @@
+#this is ignore file
+*.o
+*.a
+*.out
+*.exe
+*.dll
+*.obj
+*.res
+*.pdb
+*.swp
+*.s
+*.aps
+*.suo
+*.user
+Debug/
+Release/
+x64/
+ARM/
+build/
+CMakeFiles/
+CMakeCache.txt
+*.VC.db*
